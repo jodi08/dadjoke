@@ -19,8 +19,8 @@ body {
   font-family: "Shadows Into Light";
 }
 .container {
-  height: 35vw;
-  width: 65vw;
+  height: 20vw;
+  width: 45vw;
   background-color: #fff;
   display: flex;
   flex-direction: column;
