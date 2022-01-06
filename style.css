@@ -19,7 +19,8 @@ body {
   font-family: "Shadows Into Light";
 }
 .container {
-  height: 20vw;
+  min-height: 20vh;
+  height: auto;
   width: 45vw;
   background-color: #fff;
   display: flex;
@@ -41,6 +42,7 @@ body {
   border: 2px solid #696969;
   font-size: calc(5px + 0.5vw);
   cursor: pointer;
+  margin-bottom: 20px;
 }
 .btn:active {
   outline: none;
